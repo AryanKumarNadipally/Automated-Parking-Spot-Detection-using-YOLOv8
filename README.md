@@ -13,3 +13,6 @@ Real-Time Spot Availability: Dynamically counts and displays the number of avail
 Efficient Video Processing: Processes frames at a rate of 30 fps, ensuring smooth and timely updates.
 
 Customizable Parking Areas: Features the flexibility to define and modify parking spots within the footage by setting polygonal coordinates.
+
+## Demo Video Link:
+[https://www.dropbox.com/scl/fi/q9l9ccpk4o3ivp9dzelsb/Output.mp4?rlkey=cv7afsnr5o4du7yuvhxxe5zdo&dl=0]
