@@ -4,8 +4,8 @@ This repository contains a Python-based project that implements a real-time park
 
 ## Key Features:
 
-### YOLOv8 Integration: Uses the state-of-the-art YOLOv8 model for highly accurate vehicle detection.
-### Robust Performance in Varied Conditions: Efficiently handles footage with shadows and low-light scenarios, such as night vision videos, maintaining high accuracy.
-### Real-Time Spot Availability: Dynamically counts and displays the number of available parking spots, updating in real-time as vehicles enter or leave.
-### Efficient Video Processing: Processes frames at a rate of 30 fps, ensuring smooth and timely updates.
-### Customizable Parking Areas: Features the flexibility to define and modify parking spots within the footage by setting polygonal coordinates.
+YOLOv8 Integration: Uses the state-of-the-art YOLOv8 model for highly accurate vehicle detection.
+Robust Performance in Varied Conditions: Efficiently handles footage with shadows and low-light scenarios, such as night vision videos, maintaining high accuracy.
+Real-Time Spot Availability: Dynamically counts and displays the number of available parking spots, updating in real-time as vehicles enter or leave.
+Efficient Video Processing: Processes frames at a rate of 30 fps, ensuring smooth and timely updates.
+Customizable Parking Areas: Features the flexibility to define and modify parking spots within the footage by setting polygonal coordinates.
